@@ -8,7 +8,7 @@ This utility is forked from https://github.com/cratonica/2goarray.
 
 Having [set up your Go environment](http://golang.org/doc/install), simply run
 ```bash
-$> go get github.com/cratonica/2goarray
+$> go get github.com/dihedron/2goarray
 ```
 
 ## Usage
